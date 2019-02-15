@@ -1,0 +1,10 @@
+F:\项目\Demo\ReadTxt\批量处理txt文件\批量处理txt文件\bin\Debug\批量处理txt文件.exe.config
+F:\项目\Demo\ReadTxt\批量处理txt文件\批量处理txt文件\bin\Debug\批量处理txt文件.exe
+F:\项目\Demo\ReadTxt\批量处理txt文件\批量处理txt文件\bin\Debug\批量处理txt文件.pdb
+F:\项目\Demo\ReadTxt\批量处理txt文件\批量处理txt文件\obj\Debug\批量处理txt文件.FormHome.resources
+F:\项目\Demo\ReadTxt\批量处理txt文件\批量处理txt文件\obj\Debug\批量处理txt文件.FormAbout.resources
+F:\项目\Demo\ReadTxt\批量处理txt文件\批量处理txt文件\obj\Debug\批量处理txt文件.Properties.Resources.resources
+F:\项目\Demo\ReadTxt\批量处理txt文件\批量处理txt文件\obj\Debug\批量处理txt文件.csproj.GenerateResource.cache
+F:\项目\Demo\ReadTxt\批量处理txt文件\批量处理txt文件\obj\Debug\批量处理txt文件.csproj.CoreCompileInputs.cache
+F:\项目\Demo\ReadTxt\批量处理txt文件\批量处理txt文件\obj\Debug\批量处理txt文件.exe
+F:\项目\Demo\ReadTxt\批量处理txt文件\批量处理txt文件\obj\Debug\批量处理txt文件.pdb
